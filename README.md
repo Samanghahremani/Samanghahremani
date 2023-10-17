@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Samanghahremani
+- 👋 Hi, I’m Samanghahremani
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
