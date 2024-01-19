@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Samanghahremani
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Python, Django 
+- 🌱 I’m currently learning Django 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
