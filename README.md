@@ -49,7 +49,7 @@
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Send+me+a+message+on+LinkedIn!;+I'm+always+ready+to+work+with+you!">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+🤍;+Send+me+a+message+on+LinkedIn!;+I'm+always+ready+to+work+with+you!">
 </h3>
 
 <br/>
