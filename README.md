@@ -1,4 +1,3 @@
-vg" alt="python" width="40" height="40"/> </a> </p>
 <h1 align="center">Hi 👋, I'm Saman Ghahremany</h1>
 <h3 align="center">A active backend developer from Iran</h3>
 
