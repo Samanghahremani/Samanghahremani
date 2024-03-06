@@ -47,7 +47,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=samanghahremany&show_icons=true&locale=en" alt="samanghahremany" /></p>
+<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=samanghahremani&show_icons=true&locale=en" alt="samanghahremani" /></p>
 
 
 <hr/>
