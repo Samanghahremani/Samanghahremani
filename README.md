@@ -17,7 +17,7 @@
  </div>
  
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/seyedrezadrakhshan/">
+  <a href="https://www.linkedin.com/in/saman-ghahremani-688b732b4/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"" />
   </a>
  <a href="https://discord.com/invite/imreza#3197">
