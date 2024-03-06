@@ -29,7 +29,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,python,django,html,css,git,fastapi,discord,linkedin,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=github,python,django,html,css,,discord,linkedin," /><br>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
 </div>
 
 <br/>
